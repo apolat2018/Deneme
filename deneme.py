@@ -1,0 +1,3 @@
+#Github için merhaba dünya yazdýran program
+# -*- coding: cp1254 -*-
+print "Merhaba Dünya"
