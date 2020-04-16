@@ -15,7 +15,9 @@
 - Fig.  8 User interface of Tuning RF script.
 - Fig.  9 User interface of MLP script.
 - Fig. 10 User interface of tuning MLP script.
+
 <p>Tables</p>
+
 - Table 1 Description of input parameter and processes of Data Preparation Script. 
 - Table 2 Description of input parameter and processes of FR Script.
 - Table 3 Description of input parameter and processes of IV Script.
@@ -36,6 +38,7 @@
 <p align="center">
   <b>Table 1.</b> Description of input parameter and processes of Data Preparation Script. 
 </p>
+
 **DESCRIPTION OF INPUT PARAMETERS**
 |Parameter|Explanation|Data Type|
 |:-------- |:----------- |:----------|
