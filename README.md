@@ -211,3 +211,50 @@
 |FINISHED|
 |Completed script Logr...|
 *Elapsed Time: 58,76 seconds*
+
+<p align="left">
+  <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig6.png">
+</p>
+<p align="left">
+  <b>Figure 6.</b> User interface of tuning LR script
+</p>
+
+<p align="left">
+  <b>Table 6.</b> Description of input parameter and processes of tuning LR script.
+</p>
+
+**THE PROCESSES OF TUNING LR SCRIPT*
+|----------------------------------|
+|Selected C value as tuning parameter|
+|testing 0.001 value|
+|Success rate=0.664567830567|
+|Predict rate=0.663840873377|
+|testing 0.002 value|
+|Success rate=0.669814920817|
+|Predict rate=0.67041601191|
+|testing 0.003 value|
+|Success rate=0.6732732303|
+|Predict rate=0.67401372922|
+|testing 0.004 value|
+|Success rate=0.674871207785|
+|Predict rate=0.677073856588|
+|testing 0.005 value|
+|Success rate=0.676206830757|
+|Predict rate=0.679141510214|
+|testing 0.006 value|
+|Success rate=0.677709406602|
+|Predict rate=0.67988586552|
+|testing 0.007 value|
+|Success rate=0.678901927113|
+|Predict rate=0.681539988421|
+|testing 0.008 value|
+|Success rate=0.680118298035|
+|Predict rate=0.68265652138|
+|testing 0.009 value|
+|Success rate=0.680523755009|
+|Predict rate=0.682739227525|
+|testing 0.01 value|
+|Success rate=0.680929211982|
+|Predict rate=0.683235464395|
+|Completed script tuningLR...|
+*Elapsed Time: 12.68 seconds*
