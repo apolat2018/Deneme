@@ -87,8 +87,9 @@
 </p>
 
 **DESCRIPTION OF INPUT PARAMETER**
-|:---|:---|:---|
+
 |Parameter|	Explanation|	Data Type|
+|:---|:---|:---|
 |Rec_folder|	Select the folder where the Parameter files (Reclassed raster data) are located.| 	Folder|
 |Save_Folder|	Susceptibility map and ROC graph is saving this Folder|	Folder|
 |Coordinate_system|	Coordinate System of output raster|	Coordinate System|
