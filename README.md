@@ -16,7 +16,6 @@ figure 1 eklendi:
 </p>
 
 |DESCRIPTION OF INPUT PARAMETER|
-|------------------------------|
 |Parameter|Explanation|Data Type|
 |:--------|:-----------|:----------|
 |The_Folder_of_the_parameters|The name of the parameter, raster files must begin with "rec" rec_aspect, rec_slope etc.|Folder|
