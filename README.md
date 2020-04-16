@@ -15,8 +15,10 @@ figure 1 eklendi:
   <img width="535" height="273" src="https://github.com/apolat2018/Deneme/blob/master/fig1.jpg">
 </p>
 
-DESCRIPTION OF INPUT PARAMETER
-Parameter	Explanation	Data Type
+|DESCRIPTION OF INPUT PARAMETER|
+--------------------------------
+|Parameter|	Explanation|	Data Type|
+------------------------------------
 The_Folder_of_the_parameters	The name of the parameter raster files must begin with "rec". rec_aspect, rec_slope etc.	Folder
 Landslide_file__shp_	Landslides file(.shp) must be polygon type	Shapefile
 Area_file__shp_	Desired area file (.shp)	Shapefile
