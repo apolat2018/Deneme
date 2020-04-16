@@ -29,7 +29,7 @@
 - Table 9 Description of input parameter and processes of MLP script.
 - Table 10 Processes of tuning MLP script.
 
-<p align="center">
+<p align="left">
   <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig1.png">
 </p>
 <p align="left">
