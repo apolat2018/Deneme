@@ -75,14 +75,14 @@
 |Completed script prepare...|
 |*Elapsed Time: 14 minutes 15 seconds*|
 
-<p align="center">
+<p align="left">
   <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig2.png">
 </p>
-<p align="center">
+<p align="left">
   <b>Figure 2.</b> User interface of FR script
 </p>
 
-<p align="center">
+<p align="left">
   <b>Table 2.</b> Description of input parameter and processes of FR Script. 
 </p>
 
@@ -105,14 +105,14 @@
 |Completed script FRanalysis...|
 *(Elapsed Time: 26,56 seconds)*
 
-<p align="center">
+<p align="left">
   <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig3.png">
 </p>
-<p align="center">
+<p align="left">
   <b>Figure 3.</b> User interface of IV script
 </p>
 
-<p align="center">
+<p align="left">
   <b>Table 3.</b> Description of input parameter and processes of IV Script. 
 </p>
 
@@ -134,3 +134,28 @@
 |AUC Graph is saved as auc_IV.png|
 |Completed script IVanalysis...|
 *(Elapsed Time: 15,67 seconds)*
+
+<p align="left">
+  <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig4.png">
+</p>
+<p align="left">
+  <b>Figure 4.</b> User interface of Create LSM and Calculate ROC script.
+</p>
+
+<p align="left">
+  <b>Table 4.</b> Description of input parameter and processes of Create LSM and Calculate ROC script.
+</p>
+
+**DESCRIPTION OF INPUT PARAMETER**
+
+|Parameter|	Explanation|	Data Type|
+|:---|:---|:---|
+
+|workspace|	The folder including exported files|	Folder|
+|excel_file|	excel file including x, y coordinate values and probability fields. It can be created external software or Data preparation script|	File|
+|train|	landslide train data (.shp). if Data Preparation script was used you should output of this script. It is located in The Folder of Parameters.|	Shapefile|
+|test|	landslide test (validation) data (.shp). if Data Preparation script was used you should output of this script. It is in The Folder of Parameters.|	Shapefile|
+|Coordinate_System|	Select Coordinate System of raster files|	Coordinate System|
+|Raster_map_Name|	Susceptibility map name|	String|
+|cell_size|	Cell size of rasters|	Cell Size|
+|field|	probability field name. The column name including probability values. Defaults is "ones".|Field|
