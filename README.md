@@ -37,17 +37,17 @@ figure 1 eklendi:
 |landslide pixels are converting to point|
 |Extracting landslide pixels|
 |clp_asp is processing|
-…………………..
-Creating raster files with Normalized Frequency Ratios and Normalized Information Values
-clp_asp is finished
-…………………..
-Preparing Data for Frequency ratio value
-Saving TRAINING data as train_fr.csv
-Preparing Data for information value
-Saving TRAINING data as train_iv.csv
-Extracting Values to Point
-Extracting finished
-Saving ALL data as pre_iv.csv
-Validation landslide is saving as test_1.shp
-Completed script prepare...
-Elapsed Time: 14 minutes 15 seconds
+
+|Creating raster files with Normalized Frequency Ratios and Normalized Information Values|
+|clp_asp is finished|
+
+|Preparing Data for Frequency ratio value|
+|Saving TRAINING data as train_fr.csv|
+|Preparing Data for information value|
+|Saving TRAINING data as train_iv.csv|
+|Extracting Values to Point|
+|Extracting finished|
+|Saving ALL data as pre_iv.csv|
+|Validation landslide is saving as test_1.shp|
+|Completed script prepare...|
+|Elapsed Time: 14 minutes 15 seconds|
