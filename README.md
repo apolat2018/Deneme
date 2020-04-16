@@ -283,3 +283,22 @@
 |max_depth|	The maximum depth of the tree.|	Long|
 |min_samples_split|	min_samples_split| 	Double|
 |min_samples_leaf|	min_samples_leaf|	Double|
+**THE PROCESSES OF RANDOM FOREST SCRIPT**
+|Running script RF...|
+|Starting analysis with rf algorithm|
+|n_estimator:-----------:2000|
+|Max depth:-------------:4|
+|Min_sample_size:-------:2|
+|Min_sample_leaf:-------:100|
+|Starting Training|
+
+|Saving Prediction Data as rf.csv|
+|Analysis finished|
+|Creating SUSCEPTIBILITY Map and Calculating ROC |
+|Susceptibility Map was created in rslts folder as rf_sus raster file|
+|Success rate is: 74.4710490374|
+|prediction rate is: 71.2699643053|
+|AUC Graph is saved as auc_rf.png|
+|FINISHED|
+|Completed script RF...|
+*Elapsed Time: 53,47 seconds*
