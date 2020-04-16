@@ -178,7 +178,7 @@
 </p>
 
 <p align="left">
-  <b>Table 4.</b> Description of input parameter and processes of LR script.
+  <b>Table 5.</b> Description of input parameter and processes of LR script.
 </p>
 
 **DESCRIPTION OF INPUT PARAMETER**
@@ -193,3 +193,21 @@
 |C|	Regularization parameter|	Double|
 |max_iter|	Maximum number of iterations| 	Long|
 |solver|	'newton-cg', 'lbfgs', 'liblinear', 'sag', 'saga'|	String|
+**THE PROCESSES OF LR SCRIPT**
+|Running script Logr...|
+|Starting analysis with Logistic Regression algorithm|
+|Data type= information value|
+|C value:----------------:50.0|
+|max_iter:---------------:100|
+|Solver:-----------------:lbfgs|
+|Starting Training|
+|Saving Prediction Data as log_r.csv|
+|Analysis finished|
+|Creating SUSCEPTIBILITY Map and Calculating ROC|
+|Susceptibility Map was created in save folder as logr_sus raster file|
+|Success rate is: 75.400834642|
+|prediction rate is: 72.5659791817|
+|AUC Graph is saved as auc_logr.png|
+|FINISHED|
+|Completed script Logr...|
+*Elapsed Time: 58,76 seconds*
