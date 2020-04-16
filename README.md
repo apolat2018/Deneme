@@ -301,3 +301,48 @@
 |FINISHED|
 |Completed script RF...|
 *Elapsed Time: 53,47 seconds*
+
+<p align="left">
+  <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig8.png">
+</p>
+<p align="left">
+  <b>Figure 8.</b> User interface of Tuning RF script.
+</p>
+
+<p align="left">
+  <b>Table 8.</b> Description of input parameter and processes of Tuning RF script.
+</p>
+
+**THE PROCESSES OF TUNING RANDOM FOREST SCRIPT**
+|---------------------------------------------|
+|n_estimators was selected as tuning parameter|
+|testing 1 value|
+|Success rate=0.712125548559|
+|predict rate=0.642709453312|
+|testing 2 value|
+|Success rate=0.735069643198|
+|predict rate=0.694897030849|
+|testing 4 value|
+|Success rate=0.732732302996|
+|predict rate=0.683566288975|
+|testing 8 value|
+|Success rate=0.757632131273|
+|predict rate=0.687412124721|
+|testing 16 value|
+|Success rate=0.750095401641|
+|predict rate=0.701802993962|
+|testing 32 value|
+|Success rate=0.755986452967|
+|predict rate=0.697502274419|
+|testing 64 value|
+|Success rate=0.752957450868|
+|predict rate=0.694731618559|
+|testing 100 value|
+|Success rate=0.756511161992|
+|predict rate=0.697667686709|
+|testing 200 value|
+|Success rate=0.753744514406|
+|predict rate=0.698412042015|
+|Graphic was saved as n_estimators.png|
+|Completed script RFTune...|
+*Elapsed Time: 19,80 seconds*
