@@ -397,3 +397,56 @@
 |Completed script MLP...|
 *Elapsed Time: 10 minutes 24seconds*
 
+<p align="left">
+  <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig10.png">
+</p>
+<p align="left">
+  <b>Figure 10.</b> User interface of tuning MLP script.
+</p>
+
+<p align="left">
+  <b>Table 10.</b> Processes of tuning MLP script.
+</p>
+
+**THE PROCESSES OF TUNING MLP SCRIPT**
+|-------------------------------------|
+|Selected hidden layer size as tuning parameter|
+|Testing values of 5,10,15, 20, 30, 40, 50, 60, 70, 80,90,100|
+|testing 5 value|
+|Success rate=0.726435794696|
+|predict rate=0.697378215201|
+|testing 10 value|
+|Success rate=0.73106277428|
+|predict rate=0.698453395087|
+|testing 15 value|
+|Success rate=0.745253768365|
+|predict rate=0.701182697874|
+|testing 20 value|
+|Success rate=0.744991413852|
+|predict rate=0.701141344802|
+|testing 30 value|
+|Success rate=0.752241938561|
+|predict rate=0.693491026383|
+|testing 40 value|
+|Success rate=0.749499141385|
+|predict rate=0.701017285584|
+|testing 50 value|
+|Success rate=0.752194237741|
+|predict rate=0.69001736829|
+|testing 60 value|
+|Success rate=0.747448006106|
+|predict rate=0.69539326772|
+|testing 70 value|
+|Success rate=0.753458309483|
+|predict rate=0.697915805144|
+|testing 80 value|
+|Success rate=0.755557145583|
+|predict rate=0.69866016045|
+|testing 90 value|
+|Success rate=0.753315207022|
+|predict rate=0.702216524688|
+|testing 100 value|
+|Success rate=0.754436176302|
+|predict rate=0.692333140352|
+|Completed script MLP2...|
+*Elapsed Time: 5 minutes 42 seconds*
