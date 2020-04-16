@@ -12,7 +12,7 @@ Bu şekilde şekil eklenebiliyor
 figure 1 eklendi:
 
 <p align="center">
-  <img width="535" height="273" src="https://github.com/apolat2018/Deneme/blob/master/fig1.jpg">
+  <img width="535" height="273" src="https://github.com/apolat2018/Deneme/blob/master/fig1.png">
 </p>
 
 **DESCRIPTION OF INPUT PARAMETER**
@@ -49,4 +49,4 @@ figure 1 eklendi:
 |Saving ALL data as pre_iv.csv|
 |Validation landslide is saving as test_1.shp|
 |Completed script prepare...|
-|*Elapsed Time: 14 minutes 15 seconds*|
+|**Elapsed Time: 14 minutes 15 seconds**|
