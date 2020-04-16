@@ -161,6 +161,7 @@
 
 **THE PROCESSES OF FREQUENCY RATIO SCRIPT**
 
+|:---|
 |Running script Crate...|
 |logr_gis.xlsx file is imported|
 |Susceptibility map is saved as weka_lr|
