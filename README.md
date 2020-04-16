@@ -18,11 +18,9 @@ figure 1 eklendi:
 |DESCRIPTION OF INPUT PARAMETER|
 |-------------------------------|
 |Parameter|	Explanation|	Data Type|
-|------------------------------------|
-|The_Folder_of_the_parameters|	The name of the parameter| raster files must begin with "rec".|
-|-----|
- rec_aspect, rec_slope etc.	Folder
-Landslide_file__shp_	Landslides file(.shp) must be polygon type	Shapefile
+|:---||:---||:---|
+|The_Folder_of_the_parameters|The name of the parameter, raster files must begin with "rec" rec_aspect, rec_slope etc.|Folder|
+|Landslide_file__shp_	|Landslides file(.shp) must be polygon type|Shapefile|
 Area_file__shp_	Desired area file (.shp)	Shapefile
 cell_size	Cell size of the output raster data.	Cell Size
 Data_Type	Two type of data is enabled for use in susceptibility analysis. These values are class values and normalized frequency ratio. 	String
