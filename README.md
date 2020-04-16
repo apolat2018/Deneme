@@ -290,8 +290,7 @@
 |Max depth:-------------:4|
 |Min_sample_size:-------:2|
 |Min_sample_leaf:-------:100|
-|Starting Training|
-
+|Starting Training.|
 |Saving Prediction Data as rf.csv|
 |Analysis finished|
 |Creating SUSCEPTIBILITY Map and Calculating ROC |
