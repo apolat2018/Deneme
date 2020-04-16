@@ -258,3 +258,28 @@
 |Predict rate=0.683235464395|
 |Completed script tuningLR...|
 *Elapsed Time: 12.68 seconds*
+
+<p align="left">
+  <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig7.png">
+</p>
+<p align="left">
+  <b>Figure 7.</b> User interface of RF script
+</p>
+
+<p align="left">
+  <b>Table 7.</b> Description of input parameter and processes of RF script.
+</p>
+
+**DESCRIPTION OF INPUT PARAMETER**
+
+|Parameter|	Explanation|	Data Type|
+|:---|:---|:---|
+|workspace|	The folder including output data of Data Preparation script|	Folder|
+|Save_file|	Susceptibility map and ROC graph is saving this Folder|	Folder|
+|Coordinat_system|	coordinate system of output map|	Coordinate System|
+|cell_size|	cell size of output map|	Long|
+|Select_weighting_data_type|	Select weighting data type frequency ratio or information value	|String|
+|n_estimators|	The number of trees in the forest.|	Long|
+|max_depth|	The maximum depth of the tree.|	Long|
+|min_samples_split|	min_samples_split| 	Double|
+|min_samples_leaf|	min_samples_leaf|	Double|
