@@ -1,6 +1,8 @@
 # Deneme
 Bu bir denemedir. 
-<title>ANNEX</title>
+<head>
+<title>Page Title</title>
+</head>
 Bu şekilde şekil eklenebiliyor
 
 <p align="center">
