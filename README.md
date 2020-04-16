@@ -26,13 +26,13 @@ figure 1 eklendi:
 |Train_Validation_Split_size|	Split size of data as train and validation. Percentage of input landslide data|	Double|
 
 **THE PROCESSES OF DATA PREPARATION SCRIPT**
-|-------------------------------------------|
+|:-------------------------------------------|
 |[u'rec_asp', u'rec_crv', u'rec_eleva', u'rec_lito', u'rec_ls', u'rec_ndvi', u'rec_ridge', u'rec_slp', u'rec_tri', u'rec_twi']|
 |10 raster data imported as parameter|
 |Area is converting to Raster|
 |Raster is converting to Point|
 **PREPARING TRAIN DATA AND VALIDATION DATA**
-|-------------------------------------------|
+|:-------------------------------------------|
 |Clipping landslides|
 |landslide pixels are converting to point|
 |Extracting landslide pixels|
@@ -40,7 +40,7 @@ figure 1 eklendi:
 
 |Creating raster files with Normalized Frequency Ratios and Normalized Information Values|
 |clp_asp is finished|
-
+|:-----------|
 |Preparing Data for Frequency ratio value|
 |Saving TRAINING data as train_fr.csv|
 |Preparing Data for information value|
