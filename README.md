@@ -158,10 +158,7 @@
 |Raster_map_Name|	Susceptibility map name|	String|
 |cell_size|	Cell size of rasters|	Cell Size|
 |field|	probability field name. The column name including probability values. Defaults is "ones".|Field|
-
 **THE PROCESSES OF FREQUENCY RATIO SCRIPT**
-
-|:---|
 |Running script Crate...|
 |logr_gis.xlsx file is imported|
 |Susceptibility map is saved as weka_lr|
