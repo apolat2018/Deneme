@@ -95,7 +95,7 @@
 |Coordinate_system|	Coordinate System of output raster|	Coordinate System|
 |cell_size|	Cell size of the raster|	Cell Size|
 **THE PROCESSES OF FREQUENCY RATIO SCRIPT**
-Starting Frequency Ratio Analysis...
+|Starting Frequency Ratio Analysis...|
 |:---|
 |Analysis finished|
 |Susceptibility Map was created in Save folder as FR_sus raster file|
