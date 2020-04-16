@@ -3,10 +3,9 @@
   <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig1.png">
 </p>
 <p align="center">
-  <"DENEME">
+  Figure 1. User interface of Data Preparation script
 </p>
 
-figure 1 eklendi:
 **DESCRIPTION OF INPUT PARAMETER**
 |Parameter|Explanation|Data Type|
 |:-------- |:----------- |:----------|
