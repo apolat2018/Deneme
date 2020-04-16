@@ -32,7 +32,7 @@ figure 1 eklendi:
 |Area is converting to Raster|
 |Raster is converting to Point|
 **PREPARING TRAIN DATA AND VALIDATION DATA**
-|:-------------------------------------------|
+
 |Clipping landslides|
 |landslide pixels are converting to point|
 |Extracting landslide pixels|
@@ -40,7 +40,7 @@ figure 1 eklendi:
 
 |Creating raster files with Normalized Frequency Ratios and Normalized Information Values|
 |clp_asp is finished|
-|:-----------|
+
 |Preparing Data for Frequency ratio value|
 |Saving TRAINING data as train_fr.csv|
 |Preparing Data for information value|
