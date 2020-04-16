@@ -31,8 +31,9 @@ figure 1 eklendi:
 |10 raster data imported as parameter|
 |Area is converting to Raster|
 |Raster is converting to Point|
-**PREPARING TRAIN DATA AND VALIDATION DATA**
 
+**PREPARING TRAIN DATA AND VALIDATION DATA**
+|---|
 |Clipping landslides|
 |landslide pixels are converting to point|
 |Extracting landslide pixels|
