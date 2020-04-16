@@ -1,6 +1,6 @@
 
 <p align="center">
-  **ANNEX**
+  <b>ANNEX</b>
 </p>
 ***User Interfaces and Processes of Landslide Susceptibility Tool Scripts***
 **Figures**
