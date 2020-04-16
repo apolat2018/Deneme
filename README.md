@@ -29,13 +29,13 @@
 - Table 9 Description of input parameter and processes of MLP script.
 - Table 10 Processes of tuning MLP script.
 
-<p align="center">
+<p align="left">
   <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig1.png">
 </p>
-<p align="center">
+<p align="left">
   <b>Figure 1.</b> User interface of Data Preparation script
 </p>
-<p align="center">
+<p align="left">
   <b>Table 1.</b> Description of input parameter and processes of Data Preparation Script. 
 </p>
 
