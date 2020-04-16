@@ -170,3 +170,26 @@
 |Completed script Ceate...|
 *Time: 2 minutes 7 seconds*
 
+<p align="left">
+  <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig5.png">
+</p>
+<p align="left">
+  <b>Figure 5.</b> User interface of LR script.
+</p>
+
+<p align="left">
+  <b>Table 4.</b> Description of input parameter and processes of LR script.
+</p>
+
+**DESCRIPTION OF INPUT PARAMETER**
+
+|Parameter|	Explanation|	Data Type|
+|:---|:---|:---|
+|workspace|	The folder including output data of Data Preparation script|	Folder|
+|Save_file|	Susceptibility map and ROC graph is saving this Folder|	Folder|
+|Coordinat_system|	Coordinate system|	Coordinate System|
+|cell_size|	Cell size of the raster|	Long|
+|Select_weighting_data_type|	Select weighting data type frequency ratio or information value	|String|
+|C|	Regularization parameter|	Double|
+|max_iter|	Maximum number of iterations| 	Long|
+|solver|	'newton-cg', 'lbfgs', 'liblinear', 'sag', 'saga'|	String|
