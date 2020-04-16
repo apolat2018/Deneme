@@ -73,7 +73,7 @@
 |Saving ALL data as pre_iv.csv|
 |Validation landslide is saving as test_1.shp|
 |Completed script prepare...|
-|**Elapsed Time: 14 minutes 15 seconds**|
+|*Elapsed Time: 14 minutes 15 seconds*|
 
 <p align="center">
   <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig2.png">
@@ -81,3 +81,25 @@
 <p align="center">
   <b>Figure 2.</b> User interface of FR script
 </p>
+
+<p align="center">
+  <b>Table 2.</b> Description of input parameter and processes of FR Script. 
+</p>
+
+**DESCRIPTION OF INPUT PARAMETER**
+|:---|:---|:---|
+|Parameter|	Explanation|	Data Type|
+|Rec_folder|	Select the folder where the Parameter files (Reclassed raster data) are located.| 	Folder|
+|Save_Folder|	Susceptibility map and ROC graph is saving this Folder|	Folder|
+|Coordinate_system|	Coordinate System of output raster|	Coordinate System|
+|cell_size|	Cell size of the raster|	Cell Size|
+**THE PROCESSES OF FREQUENCY RATIO SCRIPT**
+Starting Frequency Ratio Analysis...
+Analysis finished
+Susceptibility Map was created in Save folder as FR_sus raster file
+ROC calculation is starting.....
+Success rate is: 72.7066604308
+prediction rate is: 70.9536573075
+AUC Graph is saved as auc_fr.png
+Completed script FRanalysis...
+(Elapsed Time: 26,56 seconds)
