@@ -150,7 +150,6 @@
 
 |Parameter|	Explanation|	Data Type|
 |:---|:---|:---|
-
 |workspace|	The folder including exported files|	Folder|
 |excel_file|	excel file including x, y coordinate values and probability fields. It can be created external software or Data preparation script|	File|
 |train|	landslide train data (.shp). if Data Preparation script was used you should output of this script. It is located in The Folder of Parameters.|	Shapefile|
