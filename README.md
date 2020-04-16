@@ -38,10 +38,8 @@ figure 1 eklendi:
 |landslide pixels are converting to point|
 |Extracting landslide pixels|
 |clp_asp is processing|
-
 |Creating raster files with Normalized Frequency Ratios and Normalized Information Values|
 |clp_asp is finished|
-
 |Preparing Data for Frequency ratio value|
 |Saving TRAINING data as train_fr.csv|
 |Preparing Data for information value|
