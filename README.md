@@ -96,11 +96,12 @@
 |cell_size|	Cell size of the raster|	Cell Size|
 **THE PROCESSES OF FREQUENCY RATIO SCRIPT**
 Starting Frequency Ratio Analysis...
-Analysis finished
-Susceptibility Map was created in Save folder as FR_sus raster file
-ROC calculation is starting.....
-Success rate is: 72.7066604308
-prediction rate is: 70.9536573075
-AUC Graph is saved as auc_fr.png
-Completed script FRanalysis...
-(Elapsed Time: 26,56 seconds)
+|:---|
+|Analysis finished|
+|Susceptibility Map was created in Save folder as FR_sus raster file|
+|ROC calculation is starting.....|
+|Success rate is: 72.7066604308|
+|prediction rate is: 70.9536573075|
+|AUC Graph is saved as auc_fr.png|
+|Completed script FRanalysis...|
+*(Elapsed Time: 26,56 seconds)*
