@@ -1,7 +1,7 @@
 
-***ANNEX***
-**User Interfaces and Processes of Landslide Susceptibility Tool Scripts**
-*Figures
+#ANNEX
+##User Interfaces and Processes of Landslide Susceptibility Tool Scripts
+####Figures
 Fig. 1 User interface of Data Preparation script
 Fig. 2 User interface of FR script
 Fig. 3 User interface of IV Script
