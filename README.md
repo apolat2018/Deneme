@@ -16,24 +16,26 @@
 - Fig.  9 User interface of MLP script.
 - Fig. 10 User interface of tuning MLP script.
 <p>Tables</p>
--Table 1 Description of input parameter and processes of Data Preparation Script. 
--Table 2 Description of input parameter and processes of FR Script.
--Table 3 Description of input parameter and processes of IV Script.
--Table 4 Description of input parameter and processes of Create LSM and Calculate ROC script.
--Table 5 Description of input parameter and processes of LR script.
--Table 6 Description of input parameter and processes of tuning LR script.
--Table 7 Description of input parameter and processes of RF script.
--Table 8 Description of input parameter and processes of Tuning RF script.
--Table 9 Description of input parameter and processes of MLP script.
--Table 10 Processes of tuning MLP script.
+- Table 1 Description of input parameter and processes of Data Preparation Script. 
+- Table 2 Description of input parameter and processes of FR Script.
+- Table 3 Description of input parameter and processes of IV Script.
+- Table 4 Description of input parameter and processes of Create LSM and Calculate ROC script.
+- Table 5 Description of input parameter and processes of LR script.
+- Table 6 Description of input parameter and processes of tuning LR script.
+- Table 7 Description of input parameter and processes of RF script.
+- Table 8 Description of input parameter and processes of Tuning RF script.
+- Table 9 Description of input parameter and processes of MLP script.
+- Table 10 Processes of tuning MLP script.
 
 <p align="center">
   <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig1.png">
 </p>
 <p align="center">
-  Figure 1. User interface of Data Preparation script
+  <b>Figure 1.</b> User interface of Data Preparation script
 </p>
-
+<p align="center">
+  <b>Table 1.</b> Description of input parameter and processes of Data Preparation Script. 
+</p>
 **DESCRIPTION OF INPUT PARAMETERS**
 |Parameter|Explanation|Data Type|
 |:-------- |:----------- |:----------|
@@ -69,3 +71,10 @@
 |Validation landslide is saving as test_1.shp|
 |Completed script prepare...|
 |**Elapsed Time: 14 minutes 15 seconds**|
+
+<p align="center">
+  <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig2.png">
+</p>
+<p align="center">
+  <b>Figure 2.</b> User interface of FR script
+</p>
