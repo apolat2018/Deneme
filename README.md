@@ -104,3 +104,33 @@
 |AUC Graph is saved as auc_fr.png|
 |Completed script FRanalysis...|
 *(Elapsed Time: 26,56 seconds)*
+
+<p align="center">
+  <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig3.png">
+</p>
+<p align="center">
+  <b>Figure 3.</b> User interface of IV script
+</p>
+
+<p align="center">
+  <b>Table 3.</b> Description of input parameter and processes of IV Script. 
+</p>
+
+**DESCRIPTION OF INPUT PARAMETER**
+
+|Parameter|	Explanation|	Data Type|
+|:---|:---|:---|
+|Rec_folder|	Select the folder where the Parameter files (Reclassed raster data) are located.| 	Folder|
+|Save_Folder|	Susceptibility map and ROC graph is saving this Folder|	Folder|
+|Coordinate_system|	Coordinate System of output raster|	Coordinate System|
+|cell_size|	Cell size of the raster|	Cell Size|
+**THE PROCESSES OF FREQUENCY RATIO SCRIPT**
+|Starting Information Value Analysis...|
+|Analysis finished|
+|Susceptibility Map was created in Save folder as IV_sus raster file|
+|ROC calculation is starting.....|
+|Success rate is: 72.942322706|
+|prediction rate is: 71.8463442428|
+|AUC Graph is saved as auc_IV.png|
+|Completed script IVanalysis...|
+*(Elapsed Time: 15,67 seconds)*
