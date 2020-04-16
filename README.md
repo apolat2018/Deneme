@@ -346,3 +346,54 @@
 |Graphic was saved as n_estimators.png|
 |Completed script RFTune...|
 *Elapsed Time: 19,80 seconds*
+
+<p align="left">
+  <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig9.png">
+</p>
+<p align="left">
+  <b>Figure 9.</b> User interface of MLP script.
+</p>
+
+<p align="left">
+  <b>Table 9.</b> Description of input parameter and processes of MLP script.
+</p>
+
+**DESCRIPTION OF INPUT PARAMETER**
+
+|Parameter|	Explanation|	Data Type|
+|:---|:---|:---|
+|workspace|	The folder including output data of Data Preparation| script	Folder|
+|Save_file|	Susceptibility map and ROC graph is saving this Folder|	Folder|
+|Coordinat_system|	coordinate system of output map|	Coordinate System|
+|cell_size|	cell size of output map|	Long|
+|Select_weighting_data_type|	Select weighting data type frequency ratio or information value|	String|
+|hidden_layer_size|	Hidden layer size|	Multiple Value|
+|activation|	Activation function|	String|
+|solver|	Solver|	String|
+|alpha|	Regularization parameter.|	Double|
+|learning_rate|	Learning rate|	String|
+|learning_rate_init|	Learning rate init|	Double|
+|max_iter|	Max iteration number|	Long|
+|momentum|	Momentum|	Double|
+**THE PROCCESES OF MLP SCRIPT**
+|Running script MLP...|
+|Hidden layer size:---------------:100|
+|Activation function:-------------:tanh|
+|Solver:--------------------------:sgd|
+|Alpha----------------------------:1e-05|
+|Learning rate:-------------------:constant|
+|Learning rate init---------------:0.0001|
+|Max iter:------------------------:2000|
+|Momentum-------------------------:0.7|
+|Starting analysis with MLP algorithm|
+|Starting Training|
+|Saving Prediction Data as mlp.csv|
+|Analysis finished|
+|Creating SUSCEPTIBILITY Map and Calculating ROC| 
+|Susceptibility Map was created in C:\deneme\rslts folder as mlp_sus raster file|
+|Success rate is: 75.3942743596|
+|prediction rate is: 72.6741995105|
+|AUC Graph is saved as auc_mlp.png|
+|Completed script MLP...|
+*Elapsed Time: 10 minutes 24seconds*
+
