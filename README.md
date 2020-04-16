@@ -1,4 +1,29 @@
 
+***ANNEX***
+**User Interfaces and Processes of Landslide Susceptibility Tool Scripts**
+*Figures
+Fig. 1 User interface of Data Preparation script
+Fig. 2 User interface of FR script
+Fig. 3 User interface of IV Script
+Fig. 4 User interface of Create LSM and Calculate ROC script.
+Fig. 5 User interface of LR script.
+Fig. 6 User interface of tuning LR script
+Fig. 7 User interface of RF script.
+Fig.  8 User interface of Tuning RF script.
+Fig.  9 User interface of MLP script.
+Fig. 10 User interface of tuning MLP script.
+*Tables
+Table 1 Description of input parameter and processes of Data Preparation Script. 
+Table 2 Description of input parameter and processes of FR Script.
+Table 3 Description of input parameter and processes of IV Script.
+Table 4 Description of input parameter and processes of Create LSM and Calculate ROC script.
+Table 5 Description of input parameter and processes of LR script.
+Table 6 Description of input parameter and processes of tuning LR script.
+Table 7 Description of input parameter and processes of RF script.
+Table 8 Description of input parameter and processes of Tuning RF script.
+Table 9 Description of input parameter and processes of MLP script.
+Table 10 Processes of tuning MLP script.
+
 <p align="center">
   <img width="793" height="691" src="https://github.com/apolat2018/Deneme/blob/master/fig1.png">
 </p>
@@ -6,7 +31,7 @@
   Figure 1. User interface of Data Preparation script
 </p>
 
-**DESCRIPTION OF INPUT PARAMETER**
+**DESCRIPTION OF INPUT PARAMETERS**
 |Parameter|Explanation|Data Type|
 |:-------- |:----------- |:----------|
 |The_Folder_of_the_parameters|The name of the parameter, raster files must begin with "rec" rec_aspect, rec_slope etc.|Folder|
